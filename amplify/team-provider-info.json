@@ -1,0 +1,41 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-prod-190557-authRole",
+      "UnauthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-prod-190557-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-prod-190557-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextunicorn-prod-190557-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-prod-190557-unauthRole",
+      "StackName": "amplify-nextunicorn-prod-190557",
+      "StackId": "arn:aws:cloudformation:us-east-2:191477602114:stack/amplify-nextunicorn-prod-190557/cfc4fa10-1787-11ed-abd6-0af537d743a0",
+      "AmplifyAppId": "d1qt8lb6dmluw8"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-test-190822-authRole",
+      "UnauthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-test-190822-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-test-190822-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextunicorn-test-190822-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-test-190822-unauthRole",
+      "StackName": "amplify-nextunicorn-test-190822",
+      "StackId": "arn:aws:cloudformation:us-east-2:191477602114:stack/amplify-nextunicorn-test-190822/25fd45e0-1788-11ed-a53c-02914a5ce08e",
+      "AmplifyAppId": "d1qt8lb6dmluw8"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextunicorn-dev-190937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-dev-190937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::191477602114:role/amplify-nextunicorn-dev-190937-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextunicorn-dev-190937-deployment",
+      "UnauthRoleName": "amplify-nextunicorn-dev-190937-unauthRole",
+      "StackName": "amplify-nextunicorn-dev-190937",
+      "StackId": "arn:aws:cloudformation:us-east-2:191477602114:stack/amplify-nextunicorn-dev-190937/53071e80-1788-11ed-bc5a-02be3b9a321a",
+      "AmplifyAppId": "d1qt8lb6dmluw8"
+    }
+  }
+}
